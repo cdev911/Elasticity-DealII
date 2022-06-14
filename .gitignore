@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+# Build and Result folder
+build/
+build*/
+results/
+results*/
+result/
+result*/
+# Output files
+*.vtu
+*.vtk
+*.pvd
+*.pvtu
